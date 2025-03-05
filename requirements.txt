@@ -1,0 +1,8 @@
+pandas
+numpy==2.1
+scikit-learn
+ydata_profiling
+setuptools
+ipython
+shap
+matplotlib
